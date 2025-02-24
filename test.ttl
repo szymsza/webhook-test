@@ -1,1 +1,1 @@
-<https://turtle.com> <https://turtle.com/predicate> "value" .
+<https://turtle.com> <https://turtle.com/predicate> "value2" .
