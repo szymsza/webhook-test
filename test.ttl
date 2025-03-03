@@ -1,1 +1,1 @@
-<http://test8.datagift.test:4200> <https://turtle.com/predicate> "value5" .
+<http://test8.datagift.test:4200> <https://turtle.com/predicate> "value6" .
