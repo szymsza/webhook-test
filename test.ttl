@@ -1,1 +1,1 @@
-<http://test2.dev.data.gift/mytestsubject> <http://test2.dev.data.gift/predicate> "value2" .
+<http://test2.dev.data.gift/mytestsubject> <http://test2.dev.data.gift/predicate> "value23" .
